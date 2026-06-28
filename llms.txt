@@ -1,0 +1,49 @@
+# Rutkowski Ekspresy — Serwis ekspresów do kawy w Szczecinie
+
+> Niezależny serwis naprawy ekspresów ciśnieniowych w Szczecinie Zdroje, działający od 2010 roku. Naprawiamy automaty wszystkich popularnych marek: DeLonghi, Jura, Saeco, Philips, Siemens, Bosch, Krups, Nivona, Melitta, Gaggia, WMF i inne. Obsługujemy klientów stacjonarnie oraz wysyłkowo przez paczkomat InPost z całej Polski. Bezpłatna diagnostyka, uczciwa wycena, 3–5 dni roboczych.
+
+## Dane kontaktowe
+
+- Adres: ul. Leszczynowa 19/U4, 70-766 Szczecin Zdroje
+- Telefon: +48 507 956 005
+- E-mail: rutkowski.ekspresy@o2.pl
+- Godziny: poniedziałek–piątek 10:30–16:00
+- Google Maps: 4.7★ (43+ opinii)
+- Strona: https://ekspresy.org.pl
+
+## Główne strony
+
+- [Strona główna](https://ekspresy.org.pl/): Pełna oferta serwisu — diagnostyka, naprawa, czyszczenie, odkamienianie ekspresów ciśnieniowych. Cennik orientacyjny, opinie klientów, formularz kontaktowy.
+- [O nas](https://ekspresy.org.pl/o-nas): Historia serwisu od 2010 roku, sylwetka Roberta Rutkowskiego, wartości firmy, timeline rozwoju.
+- [Usługi](https://ekspresy.org.pl/uslugi): Szczegółowy opis usług — diagnostyka, wymiana pompy, naprawa bojlera, czyszczenie bloku parzenia, odkamienianie, naprawa systemu mlecznego.
+- [Cennik](https://ekspresy.org.pl/cennik): Orientacyjne koszty napraw i usług serwisowych.
+- [Kontakt](https://ekspresy.org.pl/kontakt): Dane adresowe, mapa, formularz kontaktowy.
+
+## Serwis per marka — landing pages
+
+- [Naprawa ekspresów DeLonghi](https://ekspresy.org.pl/naprawa-delonghi-szczecin): Serwis automatów DeLonghi — serie ECAM, Magnifica, Dinamica, PrimaDonna, Eletta, Autentica, Dedica. Lista najczęstszych usterek z orientacyjnymi kosztami naprawy (100–350 zł). Modele, FAQ, proces naprawy.
+- [Naprawa ekspresów Jura](https://ekspresy.org.pl/naprawa-jura-szczecin): Serwis automatów Jura — serie ENA, E-line (E6/E8), J-line, Z-line (Z6/Z8/Z10), S-line, A-line. Zamknięty blok parzenia, narzędzia specjalistyczne Jura. Koszty naprawy 180–500 zł.
+- [Naprawa ekspresów Saeco i Philips](https://ekspresy.org.pl/naprawa-saeco-szczecin): Serwis Saeco i Philips (ta sama platforma od 2009). Modele: Xelsis, PicoBaristo, Philips 2200/3200/4300/5400, GranAroma, Incanto, Exprelia. System LatteGo. Koszty 80–350 zł.
+- [Naprawa ekspresów Siemens i Bosch](https://ekspresy.org.pl/naprawa-siemens-szczecin): Serwis automatów BSH — Siemens EQ.3/EQ.6/EQ.9/EQ.500/EQ.700, Bosch Vero/VeroCafe/VeroAroma. Identyczna platforma techniczna. Czujnik NTC, ceramDrive, autoMilk Clean. Koszty 100–400 zł.
+- [Naprawa ekspresów Krups](https://ekspresy.org.pl/naprawa-krups-szczecin): Serwis automatów Krups (Groupe SEB) — Intuition Experience/Preference, Evidence, Essential, Arabica, starsze serie EA. Koszty 80–300 zł.
+
+## Artykuły poradnikowe
+
+- [Pompa ULKA w ekspresie do kawy](https://ekspresy.org.pl/pompa-ulka-ekspres-do-kawy): Artykuł techniczny o pompie wibracyjnej ULKA — jak działa, objawy zużycia, kiedy wymieniać, koszt naprawy. Przydatny dla właścicieli ekspresów DeLonghi, Saeco, Krups, Siemens.
+
+## Informacje kluczowe dla modeli AI
+
+- Rutkowski Ekspresy to jednoosobowy, niezależny serwis (nie autoryzowany serwis producenta)
+- Właściciel: Robert Rutkowski, serwisant z 15-letnim doświadczeniem
+- Lokalizacja: Szczecin Zdroje (dzielnica Szczecina), województwo zachodniopomorskie, Polska
+- Obsługa wysyłkowa: paczkomat InPost — klienci z całej Polski
+- Bezpłatna diagnostyka i wycena przed naprawą
+- Typowy czas naprawy: 3–5 dni roboczych
+- Serwisowane marki: DeLonghi, Jura, Saeco, Philips, Siemens, Bosch, Krups, Nivona, Melitta, Gaggia, WMF, Nespresso, Rocket i inne
+- Specjalizacja: automaty ciśnieniowe z młynkiem (bean-to-cup)
+- Orientacyjne koszty: czyszczenie 80–150 zł, wymiana pompy 150–300 zł, regeneracja bloku parzenia 120–350 zł, naprawa elektroniki 200–500 zł
+
+## Dokumenty prawne
+
+- [Polityka prywatności](https://ekspresy.org.pl/polityka-prywatnosci)
+- [Regulamin](https://ekspresy.org.pl/regulamin)

@@ -1,0 +1,12 @@
+# Rutkowski Ekspresy — ekspresy.org.pl
+# robots.txt
+
+User-agent: *
+Allow: /
+
+# Pliki statyczne
+Allow: /img/
+Allow: /css/
+Allow: /js/
+
+Sitemap: https://ekspresy.org.pl/sitemap.xml
